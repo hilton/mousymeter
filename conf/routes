@@ -1,0 +1,5 @@
+GET /   controllers.Application.index
+
+GET /log   controllers.Application.log
+
+GET     /assets/*file               controllers.Assets.at(path="/public", file)

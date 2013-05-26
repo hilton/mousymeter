@@ -1,0 +1,4 @@
+# mousymeter - move the mouse
+
+mousymeter is Play framework sample application to demonstrate the
+WebSocket and Iteratee APIs. Just move the mouse!
